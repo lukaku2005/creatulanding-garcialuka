@@ -1,0 +1,25 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    
+}
+
+.card{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgcard{
+    width: 100%;
+    height: auto;
+    
+}
+.boton{
+    display: flex;
+    justify-content: center;
+    
+}
